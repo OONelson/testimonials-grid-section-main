@@ -1,0 +1,210 @@
+*{
+            margin: 0%;
+            padding: 0%;
+        }
+        body{
+            width: 1300px;
+            height: 800px;
+            background-color: hsl(210, 46%, 95%);
+        }
+        .subone{
+            box-shadow: 0px 6px 10px 0px rgb(0, 0, 0, 0.2);
+            top: 20%;
+            left: 13%;
+            transform: translate(-20%, -25%);
+            position: absolute;
+            padding: 20px 35px 30px 35px;
+            width: 560px;
+            height: 300px;
+            border-radius: 20px;
+            background-size: 100px;
+            background-repeat: no-repeat;
+            background-position-x: 90%;
+            background-image: url(bg-pattern-quotation.svg);
+            background-color: hsl(263, 55%, 52%);
+        }
+        .subone img{
+            width: 50px;
+            height: 60px;
+            border-radius: 50%;
+            border: 1px solid #fff;
+        }
+        .subone h1{
+            margin: -55px 0px 50px 70px;
+            font-size: 17px ;
+            font-weight: 700;
+            color: #fff;
+        }
+        .subone h1 span{
+            color: hsl(0, 0%, 81%);
+            font-size: 15px;
+        }
+        .subone h2{
+            margin: 0px 0px 50px 0px ;
+            line-height: 25px;
+            color:hsl(0, 0%, 100%);
+            font-size: 22px ;
+            line-height: 20px;
+            margin: 20px 0px 10px 0px;
+        }
+        .subone p{
+            margin: 40px 0px -50px 0px;
+            line-height: 20px;
+            font-size: 15px;
+            color:hsl(0, 0%, 81%) ;
+        }
+        .subtwo{
+            box-shadow: 0px 6px 10px 0px rgb(0, 0, 0, 0.05);
+            top: 35%;
+            left: 46%;
+            transform: translate(25%, -55%);
+            position: absolute;
+            width: 250px;
+            height: 300px;
+            border-radius: 20px;
+            background-color: hsl(217, 19%, 35%);
+            padding: 20px 25px 20px 25px;
+        }
+        .subtwo img {
+            width: 50px;
+            height: 60px;
+            border-radius: 50%;
+            border: 1px solid #fff;
+        }
+        .subtwo h1{
+            margin: -55px 0px 50px 70px;
+            font-size: 17px ;
+            font-weight: 700;
+            color: hsl(0, 0%, 100%);
+        }
+        .subtwo h1 span{
+            color: hsl(0, 0%, 81%);
+            font-size: 15px;
+        }
+        .subtwo h2{
+            line-height: 25px;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            color:hsl(0, 0%, 100%);
+            font-size: 22px ;
+            line-height: 20px;
+            margin: 20px 0px 10px 0px;  
+        }
+        .subtwo p{
+            font-size: 15px;
+            color:hsl(0, 0%, 81%) ; 
+        }
+        .subthree{
+            box-shadow: 0px 6px 10px 0px rgb(0, 0, 0, 0.05);
+            top: 76%;
+            left: 8%;
+            transform: translate(-20%, -25%);
+            position: absolute;
+            border-radius: 20px;
+            width: 250px;
+            height: 280px;
+            background-color: #fff;
+            padding: 20px 25px 20px 25px;
+        }
+        .subthree img{
+            width: 50px;
+            height: 60px;
+            border-radius: 50%;
+            border: none;
+        }
+        .subthree h1{
+            margin: -55px 0px 50px 70px;
+            font-size: 17px ;
+            font-weight: 700;
+            color: hsl(217, 19%, 35%);
+        }
+        .subthree h1 span{
+            color: hsl(0, 0%, 81%);
+            font-size: 15px;
+        }
+        .subthree h2{
+            color:hsl(217, 19%, 35%);
+            font-size: 22px ;
+            line-height: 20px;
+            margin: 20px 0px 30px 0px; 
+        }
+        .subthree p{
+            font-size: 15px;
+            color:hsl(0, 0%, 81%) ; 
+        }
+        .subfour{
+            box-shadow: 0px 6px 10px 0px rgb(0, 0, 0, 0.05);
+            top: 76%;
+            left: 37%;
+            transform: translate(-20%, -25%);
+            position: absolute;
+            border-radius: 20px;
+            width: 600px;
+            height: 290px;
+            background-color: hsl(219, 29%, 14%);
+            padding: 20px 10px 20px 10px;
+        }
+        .subfour img{
+           width: 50px;
+           height: 60px;
+           border-radius: 50%; 
+        }
+        .subfour h1{
+            margin: -55px 0px 50px 70px;
+            font-size: 17px ;
+            font-weight: 500;
+            line-height: 28px;
+            color: #fff;
+        }
+        .subfour h1 span{
+            color: hsl(0, 0%, 81%);
+            font-size: 15px;
+        }
+        .subfour h2{
+            color: hsl(0, 0%, 100%);
+            font-size: 22px ;
+            line-height: 20px;
+            margin: 20px 0px 30px 0px; 
+        }
+        .subfour p{
+            font-size: 15px;
+            color:hsl(0, 0%, 81%) ;
+        }
+        .subfive{
+            top: 72%;
+            left: 91%;
+            box-shadow: 0px 6px 10px 0px rgb(0, 0, 0, 0.05);
+            transform: translate(-70%, -61%);
+            position: absolute;
+            border-radius: 20px;
+            width: 250px;
+            height: 660px;
+            background-color: #fff;
+            padding: 20px 25px 20px 25px;
+        }
+        .subfive img{
+            width: 50px ;
+            height: 60px;
+            border-radius: 50%;
+        }
+        .subfive h1{
+            margin: -55px 0px 50px 70px;
+            font-size: 17px ;
+            font-weight: 500;
+            color: hsl(217, 19%, 35%);
+        }
+        .subfive h1 span{
+            color: hsl(0, 0%, 81%);
+            font-size: 15px;
+        }
+        .subfive h2{
+            color: hsl(217, 19%, 35%);
+            font-size: 22px ;
+            line-height: 20px;
+            margin: 20px 0px 30px 0px; 
+        }
+        .subfive p{
+            line-height: 20px;
+            font-size: 15px;
+            color:hsl(0, 0%, 81%) ;
+        }
